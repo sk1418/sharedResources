@@ -1,7 +1,11 @@
 blockit Demo1
-- dynamic block width
-- blockit via command
-- text alignment: `center` (g:blockit_align='c')
+----------------------------------------------------
+| - dynamic block width                            |
+| - H-border '@'  (g:blockit_H_char='@')           |
+| - V-border '*'  (g:blockit_V_char='*')           |
+| - blockit via command                            |
+| - text alignment: `center` (g:blockit_align='c') |
+----------------------------------------------------
 
 
     this is a short line
