@@ -1,0 +1,10 @@
+blockit Demo1
+- dynamic block width
+- blockit via command
+- text alignment: `center` (g:blockit_align='c')
+
+
+    this is a short line
+                      oh leading spaces/tabs!
+This line with trailing spaces                          
+foo bar                bar foo                      foo
