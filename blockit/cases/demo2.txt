@@ -1,0 +1,13 @@
+blockit demo2
+- dynamic block width
+- H-char in border: '.-'  (g:blockit_H_char='.-')
+- V-char in border: ..    (g:blockit_V_char='..')
+- blockit via visual selection  (<leader>bi)
+- text alignment: right
+
+blahblahblahblahblahblahblahblah
+1    this is a short line   
+2                oh leading spaces/tabs!
+3 This line with trailing spaces          
+4 foo bar                bar foo       foo
+blahblahblahblahblahblahblahblah

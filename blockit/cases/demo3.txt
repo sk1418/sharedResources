@@ -1,0 +1,23 @@
+blockit demo3
+- fixed block width: 40   (g:blockit_fixed_length=40)
+- H-char in border: '.-'  (g:blockit_H_char='.-')
+- V-char in border: ..    (g:blockit_V_char='..')
+- blockit via visual selection  (<leader>bi)
+- text alignment: right
+
+#block-wise selection
+blahblahblahblahblahblahblahblah
+1     a                #######
+2        aa             #######
+3                aaa  #######
+4       aaaaa           ############
+blahblahblahblahblahblahblahblah
+
+
+#line-wise selection
+blahblahblahblahblahblahblahblah
+     a             
+        aa         
+                aaa  
+       aaaaa      
+blahblahblahblahblahblahblahblah
