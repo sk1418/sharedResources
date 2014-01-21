@@ -1,4 +1,4 @@
-blockit demo2
+blockit demo2 (all default)
 -----------------------------------------------------
 | - dynamic block width                             |
 | - H-char in border: '-'  (default)                |

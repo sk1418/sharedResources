@@ -6,9 +6,11 @@ blockit Demo1
 | - blockit via command                            |
 | - text alignment: `center` (g:blockit_align='c') |
 ----------------------------------------------------
+foooooooooooooooooooooooooooo
+    aa aaa aa
+aaa aaa aaa            
+          aaaa aaa aaaa
+barrrrrrrrrrrrrrrrrrrrrrrrrrr
 
+block line 10-12
 
-    this is a short line
-                      oh leading spaces/tabs!
-This line with trailing spaces                          
-foo bar                bar foo                      foo

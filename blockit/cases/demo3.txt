@@ -9,17 +9,17 @@ blockit demo3
 
 #block-wise selection
 blahblahblahblahblahblahblahblah
-1     a                #######
-2        aa             #######
-3                aaa  #######
-4       aaaaa           ############
+1     a               ##
+2        aa           ###
+3                aaa  #
+4       aaaaa         ########
 blahblahblahblahblahblahblahblah
 
 
 #line-wise selection
 blahblahblahblahblahblahblahblah
-     a             
-        aa         
-                aaa  
-       aaaaa      
+  a
+  aa
+  aaa
+  aaaaa
 blahblahblahblahblahblahblahblah
